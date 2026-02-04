@@ -95,11 +95,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🛡 Badges
 
-![GitHub stars](https://img.shields.io/github/stars/krishnakamalbaishnab/Data-Structures-and-Algorithms)
-![GitHub forks](https://img.shields.io/github/forks/krishnakamalbaishnab/Data-Structures-and-Algorithms)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![GitHub issues](https://img.shields.io/github/issues/krishnakamalbaishnab/Data-Structures-and-Algorithms)
+## 🛡 Badges
 
+![GitHub stars](https://img.shields.io/github/stars/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![Top language](https://img.shields.io/github/languages/top/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
 ---
 
 ## ✨ Let's Grow Together
