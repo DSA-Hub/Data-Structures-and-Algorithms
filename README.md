@@ -1,5 +1,16 @@
 # 🚀 Data Structures and Algorithms (DSA)
 
+![GitHub stars](https://img.shields.io/github/stars/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub license](https://img.shields.io/github/license/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub contributors](https://img.shields.io/github/contributors/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![Top language](https://img.shields.io/github/languages/top/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+![Repo size](https://img.shields.io/github/repo-size/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
+---
+
 Welcome to the **DSA Practice Hub** – a comprehensive repository to learn and implement **Data Structures and Algorithms** using **C++** and **Python**. Whether you're preparing for coding interviews or just getting started, this repo provides structured learning, curated problems, and clean implementations.
 
 ---
@@ -93,20 +104,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 🛡 Badges
-
-## 🛡 Badges
-
-![GitHub stars](https://img.shields.io/github/stars/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub contributors](https://img.shields.io/github/contributors/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![Top language](https://img.shields.io/github/languages/top/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
-![Repo size](https://img.shields.io/github/repo-size/krishnakamalbaishnab/Data-Structures-and-Algorithms?style=flat-square)
----
 
 ## ✨ Let's Grow Together
 
